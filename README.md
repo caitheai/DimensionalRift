@@ -22,7 +22,7 @@ Sophia:
 	- Pause menu UI
 	- Put save points in lvl 1
 	- Put portal surfaces around lvl 1
-	- 
+	- Finish Screen UI
 
 Armaan:
 	- Work on lvl 2
