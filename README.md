@@ -16,6 +16,7 @@ Cai:
 	- Dialogue Boxes appearing
 	- Program pause menu
 	- Update saved variables
+	- button / pickup sfx
 
 Sophia:
 	- Pause menu UI
