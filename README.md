@@ -10,12 +10,9 @@ Needed Plugins:
 SPRINT 5 TO DO:
 =====================
 Cai:
-	- Remove Gravity from Portal Gun
-	- Lower jump Gravity
 	- Enemies
 	- Dialogue Boxes appearing
 	- Program pause menu
-	- Update saved variables
 
 Sophia:
 	- Pause menu UI
