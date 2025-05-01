@@ -13,12 +13,13 @@ Cai:
 	- Enemies
 	- Dialogue Boxes appearing
 	- Program pause menu
+	- Animate Credits
+	- Credits Sounds
 
 Sophia:
-	- Pause menu UI
 	- Put save points in lvl 1
 	- Put portal surfaces around lvl 1
-	- Finish Screen UI
+	- Credits UI
 
 Armaan:
 	- Work on lvl 2
