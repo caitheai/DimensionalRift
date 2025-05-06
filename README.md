@@ -12,7 +12,6 @@ SPRINT 5 TO DO:
 Cai:
 	- Enemies
 	- Program pause menu
-	- Animate Credits
 
 Sophia:
 	- Put save points in lvl 1
